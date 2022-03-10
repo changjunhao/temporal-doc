@@ -1,2 +1,1 @@
-# temporal-doc
-Temporal Doc
+# Temporal Doc
