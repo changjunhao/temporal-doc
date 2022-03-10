@@ -2,6 +2,9 @@ module.exports = {
   title: 'Temporal',
   description: '下一代 JS 日期/时间 API Temporal',
   lang: 'zh-CN',
+  head: [
+    ['meta', { name: 'keywords', content: 'temporal,Temporal,JS Temporal,Temporal API' }],
+  ],
   themeConfig: {
     // nav: [
     //   { text: "文档", link: "/guide/" },
