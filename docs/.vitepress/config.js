@@ -35,8 +35,16 @@ module.exports = {
       ],
       '/api/': [
         {
+          text: 'Temporal.Now',
+          link: '/api/Temporal-Now',
+        },
+        {
           text: 'Temporal.Instant',
           link: '/api/Temporal-Instant',
+        },
+        {
+          text: 'Temporal.ZonedDateTime',
+          link: '/api/Temporal-ZonedDateTime',
         },
         {
           text: 'Temporal.PlainDate',
@@ -70,10 +78,7 @@ module.exports = {
           text: 'Temporal.Calendar',
           link: '/api/Temporal-Calendar',
         },
-        {
-          text: 'Temporal.ZonedDateTime',
-          link: '/api/Temporal-ZonedDateTime',
-        },
+
       ]
     }
   }

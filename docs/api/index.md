@@ -4,7 +4,11 @@ title: API
 ---
 # API
 
+**[Temporal.Now](/api/Temporal-Now)：当前时间和日期对象**
+
 **[Temporal.Instant](/api/Temporal-Instant)：与日历或时区无关的确切时间**
+
+**[Temporal.ZonedDateTime](/api/Temporal-ZonedDateTime)：时区感知、日历感知的日期/时间对象**
 
 **[Temporal.PlainDate](/api/Temporal-PlainDate)：与特定时间或时区无关的日历日期**
 
@@ -22,4 +26,6 @@ title: API
 
 **[Temporal.Calendar](/api/Temporal-Calendar)：日历系统**
 
-**[Temporal.ZonedDateTime](/api/Temporal-ZonedDateTime)：时区感知、日历感知的日期/时间对象**
+
+
+
